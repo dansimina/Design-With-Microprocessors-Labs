@@ -1,0 +1,4 @@
+INT0 21
+INT1 20
+
+Se pot declansa pe: rising_edge, falling_edge, LOW, CHANGE
