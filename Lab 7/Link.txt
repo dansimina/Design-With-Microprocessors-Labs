@@ -1,0 +1,3 @@
+https://andreidiaconescu.wordpress.com/2023/02/17/nodemcu-dht11/
+https://github.com/andreidiaconescu18/NodeMCU_DHT11/blob/master/NodeMCU_DHT11.ino 
+-> linia 57, definesti endpointul si dupa ce functie sa apeleze - in cazul meu handleRoot iar acolo construiam o pagina web.
